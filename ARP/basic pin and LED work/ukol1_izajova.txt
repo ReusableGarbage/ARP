@@ -1,0 +1,9 @@
+﻿Push Button 1 wired to pin 7 with values D, M
+Coloured LED 1 wired to pin A1 with values U, R
+Coloured LED 2 wired to pin 11 with values U, R
+Coloured LED 3 wired to pin 12 with values U, R
+Coloured LED 4 wired to pin 13 with values U, R
+Coloured LED 5 wired to pin A0 with values U, R
+Coloured LED 6 wired to pin 8 with values U, R
+Coloured LED 7 wired to pin 9 with values U, R
+Coloured LED 8 wired to pin 10 with values U, R

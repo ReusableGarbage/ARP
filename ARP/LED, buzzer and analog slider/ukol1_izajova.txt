@@ -1,0 +1,6 @@
+﻿Piezo Speaker 1 wired to pin A5 
+7-Segment LED 1 wired to pins A1, A2, A3, A4, 12 with value R
+7-Segment LED 2 wired to pins 0, 1, 2, 3, 12 with value R
+7-Segment LED 3 wired to pins 4, 5, 6, 7, 12 with value R
+7-Segment LED 4 wired to pins 8, 9, 10, 11, 12 with value R
+Analog Slider 1 wired to pin A0 

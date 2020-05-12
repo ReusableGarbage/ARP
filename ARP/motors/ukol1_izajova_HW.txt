@@ -1,0 +1,2 @@
+﻿Stepper Motor 1 wired to pins A2, A3, 2, 3 with value 100, 0, 0
+USB Serial 1 wired to pins 1, 0 with value 9600
